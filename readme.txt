@@ -8,8 +8,14 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-This child theme is for the Scribe WordPress theme by Jami Gibbs. The parent theme is available on the WordPress theme directory:
+This child theme is for the Scribe WordPress theme by Jami Gibbs.
+
+The parent theme is available on the WordPress theme directory:
 http://wordpress.org/themes/scribe
+
+Or on Github:
+https://github.com/jamigibbs/scribe
+
 
 == Installation ==
 
